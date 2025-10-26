@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:paxpass_app/core/shared/widgets/dismiss_keyboard.dart';
 import 'package:paxpass_app/core/theme/app_theme.dart';
-import 'package:paxpass_app/features/screens/home_screen.dart';
+import 'package:paxpass_app/features/home/screens/home_screen.dart';
 
 void main() {
   runApp(const App());
