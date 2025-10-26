@@ -1,0 +1,1 @@
+enum AppFontWeight{regular,medium, semiBold,bold}
